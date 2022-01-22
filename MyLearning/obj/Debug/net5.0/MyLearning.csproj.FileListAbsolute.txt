@@ -1,0 +1,16 @@
+D:\Coding\MyLearning\MyLearning\bin\Debug\net5.0\MyLearning.exe
+D:\Coding\MyLearning\MyLearning\bin\Debug\net5.0\MyLearning.deps.json
+D:\Coding\MyLearning\MyLearning\bin\Debug\net5.0\MyLearning.runtimeconfig.json
+D:\Coding\MyLearning\MyLearning\bin\Debug\net5.0\MyLearning.runtimeconfig.dev.json
+D:\Coding\MyLearning\MyLearning\bin\Debug\net5.0\MyLearning.dll
+D:\Coding\MyLearning\MyLearning\bin\Debug\net5.0\ref\MyLearning.dll
+D:\Coding\MyLearning\MyLearning\bin\Debug\net5.0\MyLearning.pdb
+D:\Coding\MyLearning\MyLearning\obj\Debug\net5.0\MyLearning.csproj.AssemblyReference.cache
+D:\Coding\MyLearning\MyLearning\obj\Debug\net5.0\MyLearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\MyLearning\MyLearning\obj\Debug\net5.0\MyLearning.AssemblyInfoInputs.cache
+D:\Coding\MyLearning\MyLearning\obj\Debug\net5.0\MyLearning.AssemblyInfo.cs
+D:\Coding\MyLearning\MyLearning\obj\Debug\net5.0\MyLearning.csproj.CoreCompileInputs.cache
+D:\Coding\MyLearning\MyLearning\obj\Debug\net5.0\MyLearning.dll
+D:\Coding\MyLearning\MyLearning\obj\Debug\net5.0\ref\MyLearning.dll
+D:\Coding\MyLearning\MyLearning\obj\Debug\net5.0\MyLearning.pdb
+D:\Coding\MyLearning\MyLearning\obj\Debug\net5.0\MyLearning.genruntimeconfig.cache
